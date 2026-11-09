@@ -1,0 +1,6 @@
+{
+  "name": "Green Vegetable - Sabzi Mandi Inventory & Voice Store",
+  "description": "Real-time fresh produce inventory management system with live voice rates, barcode scanning, automated low-stock alerts, and multi-tab data synchronization.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
